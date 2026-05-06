@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /Users/zjk/.claude/projects/-Users-zjk/memory/)",
+      "Read(//Users/zjk/.claude/projects/-Users-zjk/memory/**)",
+      "Bash(ls -la /Users/zjk/.claude/projects/-Users-zjk/)",
+      "Read(//Users/zjk/.claude/projects/-Users-zjk/**)",
+      "Bash(ls -la /Users/zjk/.claude/projects/-Volumes-FILE/)",
+      "Read(//Users/zjk/.claude/projects/**)",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}
