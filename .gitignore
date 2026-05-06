@@ -3,3 +3,4 @@
 .claude/
 *.dSYM/
 test01
+/test/
